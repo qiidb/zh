@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://qiidb.github.io/guides/intro/</loc>
+<loc>https://qiidb.github.io/meta/guides/intro/</loc>
 </url>
 <url>
-<loc>https://qiidb.github.io/guides/spec/</loc>
+<loc>https://qiidb.github.io/meta/guides/spec/</loc>
 </url>
 <url>
 <loc>https://qiidb.github.io/</loc>
